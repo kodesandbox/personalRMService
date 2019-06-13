@@ -1,0 +1,27 @@
+{
+  "name": "personalrmservice",
+  "version": "1.0.0",
+  "description": "personalRM Node API",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodesandbox/personalRMService.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "express"
+  ],
+  "author": "Carl Koblavie & Paul Karikari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodesandbox/personalRMService/issues"
+  },
+  "homepage": "https://github.com/kodesandbox/personalRMService#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
